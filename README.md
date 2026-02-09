@@ -1,4 +1,4 @@
-# # Portfolio – Consultant Data Analyst
+# Portfolio – Consultant Data Analyst
 
 ## Présentation
 Consultant Data Analyst confirmé, avec une forte appétence pour le pilotage de projets data, l’accompagnement des équipes métier et l’innovation analytique.  
